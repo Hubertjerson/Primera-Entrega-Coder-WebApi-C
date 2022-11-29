@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oFJoEgVJeknU2jkGHZiDw69zCrPtdF1OYXqs2F+YS2I=",
+  "Source": "ApiSistemaDeVentas",
+  "BasePath": "_content/ApiSistemaDeVentas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
